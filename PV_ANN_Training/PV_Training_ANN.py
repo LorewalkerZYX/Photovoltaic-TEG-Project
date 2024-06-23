@@ -1,5 +1,5 @@
 # PVTEG PV ANN training
-# Avalable on https://github.com/LorewalkerZYX/Bulk-TEG-project.git
+# Avalable on https://github.com/LorewalkerZYX/Photovoltaic-TEG-Project.git
 
 import pandas as pd
 import numpy as np
