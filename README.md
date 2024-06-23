@@ -1,3 +1,3 @@
 # Photovoltaic-TEG-Project
 
-This is the code for the paper Artificial Neural Network Enabled Photovoltaic-Thermoelectric Generator Modelling and Analysis. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4834580
+This is the code for the paper Artificial Neural Network Enabled Photovoltaic-Thermoelectric Generator Modelling and Analysis. (https://dx.doi.org/10.2139/ssrn.4834580)
